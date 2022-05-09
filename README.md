@@ -1,41 +1,40 @@
 # **Takım İsmi**
 
-Takım X
+Kan Kurtaran
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Gizem Kılcı: Product Owner
+- Samet Artan: Scrum Master
+- Serenay Güneş: Team Member/Developer
+- Elif Bölükbaş: Team Member/Developer
+- Çiğdem Erdoğan: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+--KanVer--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- KanVer uygulamamız ile kan ihtiyacı halinde, ihtiyaç sahipleri ile kan bağışında bulunmak isteyen insanların birbirlerine daha hızlı ulaşmasını sağlayacağız. Bu sayede acil kan ihtiyacı durumunda daha hızlı çözüme ulaşılacak.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Kan ihtiyacının uygulamaya tanımlanması
+- İhtiyacın, hastane yakınındaki gönüllülerle paylaşılması
+- Uygun olan 2-3 kişinin seçilmesi
+- Bağışcı ile iletişim kurulması
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Kan ihtiyacı olan hastalar
+- Bağış gönüllüleri
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Trello Backlog Board](https://trello.com/b/NoSboeu0/grup-147)
 
 ---
 
@@ -45,7 +44,7 @@ Takım X
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
